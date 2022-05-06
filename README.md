@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shams. A mechanical engineer turned analyst
+- 👋 Hi, I’m Shams, a manufacturing engineer turned analyst
 - 👀 I’m interested in data analytics and product development
 - 🌱 I’m currently learning foundations of programming
 - 📫 You can reach me at msaikat@wpi.edu
