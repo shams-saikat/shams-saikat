@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Shams, a manufacturing engineer turned analyst
-- 👀 I’m interested in data analytics and product development
-- 🌱 I’m currently learning foundations of programming
-- 📫 You can reach me at msaikat@wpi.edu
+Hi, I’m Shams, a manufacturing engineer turned analyst. My current interests include data analytics, product development and health. I’m currently learning foundations of programming. You can reach me at msaikat@wpi.edu
